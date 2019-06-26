@@ -1,0 +1,76 @@
+Organism,fur,marine/terrestrial,kingdom,feathers,scales,fins,"carnivore, omni, herb, NA",vertibrate,eggs/ live young/ NA,photosynthesis,multicellular/unicellular,wings,how many legs,auto/heterotroph,poisonous,cold/ warm blooded/NA,Eukaryotic/Prokaryotic,decomposer,hooves,long tail,domesticated
+cat,yes,terrestrial,animalia,no,no,no,carnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,yes
+dog,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,yes
+chimpanzee,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,2,heterotroph,no,warm,Eukaryotic,no,no,no,no
+pig,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,yes,no,yes
+cow,yes,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,yes,yes,yes
+bear,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+panda,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+fox,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+rattlesnake,no,terrestrial,animalia,no,yes,no,carnivore,yes,eggs,no,multicellular,no,0,heterotroph,yes,cold,Eukaryotic,no,no,yes,no
+rabbit,yes,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,yes
+hamster,yes,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,yes
+clownfish,no,marine,animalia,no,yes,yes,omnivore,yes,eggs,no,multicellular,no,0,heterotroph,no,cold,Eukaryotic,no,no,no,yes
+whale,no,marine,animalia,no,no,yes,omnivore,yes,live young,no,multicellular,no,0,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+shark,no,marine,animalia,no,no,yes,carnivore,yes,live young,no,multicellular,no,0,heterotroph,no,cold,Eukaryotic,no,no,yes,no
+opossum,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+deer,yes,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,yes,no,no
+seal,no,terrestrial,animalia,no,no,yes,carnivore,yes,live young,no,multicellular,no,0,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+flamingo,no,terrestrial,animalia,no,no,no,omnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,no
+tucan,no,terrestrial,animalia,yes,no,no,omnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,no
+weasel,no,terrestrial,animalia,no,no,no,carnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+duck,no,terrestrial,animalia,yes,no,no,omnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,yes
+chicken,no,terrestrial,animalia,yes,no,no,omnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,yes
+red panda,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+hippopotamus,no,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,yes,no,no
+giraffe,yes,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,yes,yes,no
+wolf,yes,terrestrial,animalia,no,no,no,carnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+mouse,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,yes
+rhinoceros,no,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,yes,no,no
+lemur,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+dolphin,no,marine,animalia,no,no,yes,carnivore,yes,live young,no,multicellular,no,0,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+moss,no,terrestrial,plantae,no,no,no,NA,no,NA,yes,multicellular,no,0,autotroph,no,NA,Eukaryotic,no,no,no,no
+pine tree,no,terrestrial,plantae,no,no,no,NA,no,NA,yes,multicellular,no,0,autotroph,no,NA,Eukaryotic,no,no,no,no
+palm tree,no,terrestrial,plantae,no,no,no,NA,no,NA,yes,multicellular,no,0,autotroph,no,NA,Eukaryotic,no,no,no,no
+poison ivy,no,terrestrial,plantae,no,no,no,NA,no,NA,yes,multicellular,no,0,autotroph,yes,NA,Eukaryotic,no,no,no,no
+oak tree,no,terrestrial,plantae,no,no,no,NA,no,NA,yes,multicellular,no,0,autotroph,no,NA,Eukaryotic,no,no,no,no
+sloth,yes,terrestrial,animalia,no,no,no,omnivore,yes,NA,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+butterfly,no,terrestrial,animalia,no,no,no,herbivore,no,eggs,no,multicellular,yes,6,heterotroph,no,cold,Eukaryotic,no,no,no,no
+black widow,no,terrestrial,animalia,no,no,no,carnivore,no,eggs,no,multicellular,no,8,heterotroph,yes,cold,Eukaryotic,no,no,no,no
+fly,no,terrestrial,animalia,no,no,no,omnivore,no,eggs,no,multicellular,yes,6,heterotroph,no,cold,Eukaryotic,no,no,no,no
+bee,no,terrestrial,animalia,no,no,no,herbivore,no,eggs,no,multicellular,yes,6,heterotroph,no,cold,Eukaryotic,no,no,no,no
+wasp,no,terrestrial,animalia,no,no,no,omnivore,no,eggs,no,multicellular,yes,6,heterotroph,no,cold,Eukaryotic,no,no,no,no
+mosquito,no,terrestrial,animalia,no,no,no,omnivore,no,eggs,no,multicellular,yes,6,heterotroph,no,cold,Eukaryotic,no,no,no,no
+flea,no,terrestrial,animalia,no,no,no,carnivore,no,eggs,no,multicellular,no,6,heterotroph,no,cold,Eukaryotic,no,no,no,no
+scorpion,no,terrestrial,animalia,no,no,no,carnivore,no,eggs,no,multicellular,no,8,heterotroph,yes,cold,Eukaryotic,no,no,yes,no
+moth,no,terrestrial,animalia,no,no,no,herbivore,no,eggs,no,multicellular,yes,6,heterotroph,no,cold,Eukaryotic,no,no,no,no
+dragonfly,no,terrestrial,animalia,no,no,no,carnivore,no,eggs,no,multicellular,yes,6,heterotroph,no,cold,Eukaryotic,no,no,yes,no
+chipmunk,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+squirrel,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+badger,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+beaver,yes,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+bobcat,yes,terrestrial,animalia,no,no,no,carnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+skunk,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+otter,yes,marine,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+penguin,no,terrestrial,animalia,no,no,no,carnivore,yes,eggs,no,multicellular,yes,0,heterotroph,no,warm,Eukaryotic,no,no,no,no
+porcupine,no,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+raccoon,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,no,4,heterotroph,no,warm,Eukaryotic,no,no,no,no
+eagle,no,terrestrial,animalia,yes,no,no,carnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,no
+owl,no,terrestrial,animalia,yes,no,no,carnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,no
+woodpecker,no,terrestrial,animalia,yes,no,no,omnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,no
+goose,no,terrestrial,animalia,yes,no,no,omnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,yes
+vulture,no,terrestrial,animalia,yes,no,no,carnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+turkey,no,terrestrial,animalia,yes,no,no,omnivore,yes,eggs,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,yes,yes
+tree frog,no,terrestrial,animalia,no,no,no,carnivore,yes,eggs,no,multicellular,no,4,heterotroph,yes,cold,Eukaryotic,no,no,no,no
+salamander,no,terrestrial,animalia,no,no,no,carnivore,yes,eggs,no,multicellular,no,4,heterotroph,yes,cold,Eukaryotic,no,no,yes,no
+turtle,no,terrestrial,animalia,no,no,no,omnivore,yes,eggs,no,multicellular,no,4,heterotroph,no,cold,Eukaryotic,no,no,no,yes
+lizard,no,terrestrial,animalia,no,yes,no,omnivore,yes,eggs,no,multicellular,no,4,heterotroph,no,cold,Eukaryotic,no,no,yes,yes
+bat,yes,terrestrial,animalia,no,no,no,omnivore,yes,live young,no,multicellular,yes,2,heterotroph,no,warm,Eukaryotic,no,no,no,no
+worm,no,terrestrial,animalia,no,no,no,omnivore,no,eggs,no,multicellular,no,0,heterotroph,no,cold,Eukaryotic,no,no,yes,no
+kangaroo,yes,terrestrial,animalia,no,no,no,herbivore,yes,live young,no,multicellular,no,2,heterotroph,no,warm,Eukaryotic,no,no,yes,no
+crocodile,no,terrestrial,animalia,no,no,no,carnivore,yes,eggs,no,multicellular,no,4,heterotroph,no,cold,Eukaryotic,no,no,yes,no
+snail,no,terrestrial,animalia,no,no,no,herbivore,no,eggs,no,multicellular,no,0,heterotroph,no,cold,Eukaryotic,no,no,no,no
+yeast,no,terrestrial,fungi,no,no,no,NA,no,NA,no,multicellular,no,0,heterotroph,no,NA,Eukaryotic,yes,no,no,no
+mold,no,terrestrial,fungi,no,no,no,NA,no,NA,no,multicellular,no,0,heterotroph,no,NA,Eukaryotic,yes,no,no,no
+white mushroom,no,terrestrial,fungi,no,no,no,NA,no,NA,no,multicellular,no,0,heterotroph,no,NA,Eukaryotic,yes,no,no,no
+death cap,no,terrestrial,fungi,no,no,no,NA,no,NA,no,multicellular,no,0,heterotroph,yes,NA,Eukaryotic,yes,no,no,no
